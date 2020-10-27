@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+    <string name="btn_name1">ADD</string>
+    <string name="btn_name2">SAVE</string>
+    <string name="btn_name3">CLEAR</string>
+
+</resources>
